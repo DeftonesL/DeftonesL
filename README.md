@@ -18,7 +18,7 @@
 class CyberSecurityEngineer:
     def __init__(self):
         self.name = "Saleh Almqati"
-        self.role = "CyberSecurity Engineer"
+        self.role = "Information Technology"
         self.specialization = [
             "Penetration Testing",
             "Red Team Operations",
