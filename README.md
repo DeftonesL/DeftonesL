@@ -93,7 +93,7 @@ Currently building **CodePulse** - an advanced static analysis platform for mode
 
 ### CodePulse — Professional Code Analysis Engine
 
-![Version](https://img.shields.io/badge/version-0.7.1-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-0.11.1-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/DeftonesL/CodePulse?style=for-the-badge&color=yellow)
