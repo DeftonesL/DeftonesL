@@ -16,9 +16,11 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Saleh Almqati"
-        self.role = "Software Engineer"
+        self.role = "Information Technology"
         self.location = "Saudi Arabia"
         self.focus = [
+            "Cyber Security",
+            "penetration testing",
             "Static Code Analysis",
             "Security Testing",
             "Developer Tools",
